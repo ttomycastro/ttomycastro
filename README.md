@@ -4,6 +4,10 @@
 
 👨 Sobre mí
 
+💻 Soy Técnico en Programación, especializado en el desarrollo web. Además de mi experiencia en el rubro, también me dedico a la creación de contenido sobre la programación y tecnología en general.
+
+💼 He trabajado en múltiples empresas de programación, dedicandome al 100% como Fullstack Developer.
+
 
 <!--
 **ttomycastro/ttomycastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
