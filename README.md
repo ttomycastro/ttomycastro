@@ -1,6 +1,6 @@
 ![Descripción de la imagen](Tomás-Castro.png)
 
-## Me llamo Tomás, soy Fullstack Developer y creador de contenido 👋
+# Me llamo Tomás, soy Fullstack Developer y creador de contenido 👋
 
 ### 👨 Sobre mí
 
