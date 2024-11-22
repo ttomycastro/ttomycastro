@@ -2,7 +2,7 @@
 
 ## Me llamo Tomás, soy Fullstack Developer y creador de contenido 👋
 
-👨 Sobre mí
+### 👨 Sobre mí
 
 💻 Soy Técnico en Programación, especializado en el desarrollo web. Además de mi experiencia en el rubro, también me dedico a la creación de contenido sobre la programación y tecnología en general.
 
